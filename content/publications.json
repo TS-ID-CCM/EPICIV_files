@@ -1,0 +1,48 @@
+{
+  "page_title": {
+    "en": "Publications",
+    "es": "Publicaciones"
+  },
+  "description": {
+    "en": "",
+    "es": ""
+  },
+  "empty_msn": {
+    "en": "You will find all study-related publications listed on this page as they become available.",
+    "es": "En esta sección encontrarás todas las publicaciones del estudio a medida que estén disponibles."
+  },
+  "publications": [
+    {
+      "date": "2026-10-06",
+      "title": "Assessing the Global Spread of Disease: EPIC IV Case Study",
+      "link": "https://erupt-study.eu/publications",
+      "authors": [
+        {
+          "order": 0,
+          "name": "Dr. John Doe"
+        },
+        {
+          "order": 1,
+          "name": "Prof. Jane Doe"
+        }
+      ],
+      "journal": "International Journal of Cancer"
+    },
+    {
+      "date": "2020-02-04",
+      "title": "Tocilizumab, sarilumab and anakinra in critically ill patients with COVID-19: a randomised, controlled, open-label, adaptive platform trial",
+      "link": "https://thorax.bmj.com/content/80/8/530.full",
+      "authors": [
+        {
+          "order": 0,
+          "name": "Lennie Derde"
+        },
+        {
+          "order": 1,
+          "name": "Anthony C Gordon"
+        }
+      ],
+      "journal": "Thorax - Critical Care"
+    }
+  ]
+}

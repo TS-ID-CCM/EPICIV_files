@@ -1,0 +1,73 @@
+{
+  "cards": [
+    {
+      "order": 0,
+      "title": {
+        "en": "Countries",
+        "es": "Países"
+      }
+    },
+    {
+      "order": 1,
+      "title": {
+        "en": "Active Sites",
+        "es": "Sitios Activos"
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "en": "Patient Enrolled",
+        "es": "Pacientes Incluidos"
+      }
+    }
+  ],
+  "slogan": {
+    "es": "Un estudio de prevalencia de 24 horas, observacional, multicéntrico e internacional",
+    "en": "A multicenter, international, observational, 24-hour prevalence study"
+  },
+  "study_description": [
+    {
+      "order": 0,
+      "title": {
+        "en": "Healthcare-associated infections and antimicrobial resistance are a global crisis",
+        "es": "Las infecciones asociadas a la atención médica y la resistencia antimicrobiana son una crisis global"
+      },
+      "text": {
+        "en": "EPIC IV is the largest initiative yet to update worldwide data, reshaping strategies after COVID-19 changed resistance patterns.",
+        "es": "EPIC IV es la iniciativa colaborativa más grande hasta la fecha para actualizar los datos a nivel mundial, reformulando las estrategias después de que la COVID-19 alterara los patrones de resistencia y la epidemiología en muchas unidades de cuidados intensivos (UCIs)."
+      }
+    },
+    {
+      "order": 1,
+      "title": {
+        "en": "Sepsis remains the leading killer in ICUs",
+        "es": "La sepsis sigue siendo la principal causa de muerte en las UCIs"
+      },
+      "text": {
+        "en": "EPIC IV collects critical data on infection prevalence and resistance, exposing gaps in antibiotic stewardship across nations.",
+        "es": "EPIC IV recopila datos críticos sobre la prevalencia de la infección y la resistencia antimicrobiana, y evalúa cómo se practica la administración de antibióticos (antibiotic stewardship) en todas las naciones."
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "en": "EPIC IV: More than research, it’s a lifeline",
+        "es": "EPIC IV: Más que investigación, es un salvavidas"
+      },
+      "text": {
+        "en": "By measuring mortality and resistance trends, EPIC IV drives policies that save lives and secure the future of intensive care.",
+        "es": "Al medir la mortalidad (siendo el resultado primario la mortalidad por todas las causas al alta hospitalaria a los 60 días) y las tendencias de resistencia, EPIC IV impulsa el conocimiento que es importante para el desarrollo de políticas locales e internacionales y facilita la asignación de recursos."
+      }
+    }
+  ],
+  "founders": {
+    "title": {
+      "en": "Funding Entities",
+      "es": "Entidades Financiadoras"
+    },
+    "logos": [
+      "/assets/logos/universidad de la sabana.png"
+    ]
+  }
+}

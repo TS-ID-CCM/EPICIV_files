@@ -1,0 +1,48 @@
+{
+  "page_title": {
+    "en": "Resources",
+    "es": "Recursos"
+  },
+  "description": {
+    "en": "Access key resources and documents developed through the EPIC IV Study network.\n\nEach file represents the joint effort of teams committed to advancing global understanding of infections in intensive care.\n\nWe invite you to browse, learn, and connect with us.\n\nKey documents:",
+    "es": "Accede a los principales recursos y documentos desarrollados en la red del Estudio EPIC IV.\n\nCada material refleja el esfuerzo conjunto de equipos comprometidos con ampliar el conocimiento global sobre las infecciones en cuidados intensivos.\n\nTe invitamos a recorrerlos, aprender y conectar con nosotros.\n\nDocumentos principales:"
+  },
+  "files": [
+    {
+      "order": 0,
+      "icon": "Protocol Summary.png",
+      "name": {
+        "en": "Protocol Summary",
+        "es": "Resumen del protocolo del estudio"
+      },
+      "url": "https://raw.githubusercontent.com/TS-ID-CCM/EPICIV_files/e17bc2bd436764a81001edf15f8912c9db12e693/Protocol%20Summary.pdf"
+    },
+    {
+      "order": 1,
+      "icon": "Protocol Study.png",
+      "name": {
+        "en": "Protocol Study",
+        "es": "Protocolo del estudio"
+      },
+      "url": "https://raw.githubusercontent.com/TS-ID-CCM/EPICIV_files/e17bc2bd436764a81001edf15f8912c9db12e693/Protocol%20Study.pdf"
+    },
+    {
+      "order": 2,
+      "icon": "Informed Consent Form.png",
+      "name": {
+        "en": "Informed Consent Form (ICF)",
+        "es": "Formulario de Consentimiento Informado (FCI)"
+      },
+      "url": "https://raw.githubusercontent.com/TS-ID-CCM/EPICIV_files/e17bc2bd436764a81001edf15f8912c9db12e693/Informed%20Consent%20Form%20(ICF).pdf"
+    },
+    {
+      "order": 3,
+      "icon": "Publication Policy.png",
+      "name": {
+        "en": "Publication Policy",
+        "es": "Políticas de publicación"
+      },
+      "url": "https://raw.githubusercontent.com/TS-ID-CCM/EPICIV_files/e17bc2bd436764a81001edf15f8912c9db12e693/Publication%20Policy.pdf"
+    }
+  ]
+}

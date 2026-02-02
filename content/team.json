@@ -1,0 +1,369 @@
+{
+  "page_title": {
+    "en": "Team",
+    "es": "Equipo"
+  },
+  "investigator": {
+    "title": {
+      "en": "Research Team",
+      "es": "Equipo Investigador"
+    },
+    "principal": {
+        "title": {
+          "en": "Principal Investigators",
+          "es": "Investigadores Principales"
+        },
+        "members": [
+          {
+            "order": 0,
+            "title": "Prof.",
+            "name": "Ignacio Martin-Loeches",
+            "profession": {
+              "en": "MD, PhD, FJFICMI",
+              "es": "MD, PhD, FJFICMI"
+            },
+            "info": {
+              "en": "•\tSt. James's Hospital Dublin (Ireland)\n•\tProfessor, Trinity College Dublin (Ireland)\n•\tChair of the Research Committee, European Society of Intensive Care Medicine (ESICM)",
+              "es": "•\tHospital St. James's de Dublín (Irlanda)\n•\tProfesor, Trinity College de Dublín (Irlanda)\n•\tPresidente del Comité de Investigación, Sociedad Europea de Medicina de Cuidados Intensivos - ESICM"
+            },
+            "email": "imartinl@tcd.ie"
+          },
+          {
+            "order": 1,
+            "title": "Prof.",
+            "name": "Jean-Louis Vincent",
+            "profession": {
+              "en": "MD, PhD",
+              "es": "MD, PhD"
+            },
+            "info": {
+              "en": "•\tDepartment of Intensive Care Erasme University Hospital (Université Libre de Bruxelles)",
+              "es": "•\tDepartamento de Cuidados Intensivos en el Hospital Universitario Erasme (Université Libre de Bruxelles)"
+            },
+            "email": "jlvincent@intensive.org"
+          },
+          {
+            "order": 1,
+            "title": "Dr.",
+            "name": "Luis Felipe Reyes",
+            "profession": {
+              "en": "MD, MSc, PhD",
+              "es": "MD, MSc, PhD"
+            },
+            "info": {
+              "en": "•\tDistinguished Professor of Infectious Diseases at the School of Medicine, Universidad de La Sabana (Colombia)\n•\tResearch Leader, Unisabana Center for Translational Science -UCTS (Colombia)\n•\tLeadership Academic Manager, Pandemic Sciences Institute, University of Oxford",
+              "es": "•\tProfesor Distinguido de Enfermedades Infecciosas en la Facultad de Medicina, Universidad de La Sabana (Colombia)\n•\tLíder de Investigación en el Unisabana Center for Translational Science -UCTS (Colombia)\n•\tGerente Académico de Liderazgo, Pandemic Sciences Institute, Universidad de Oxford"
+            },
+            "email": "luis.reyes5@unisabana.edu.co"
+          }
+        ]
+      }
+  },
+  "committee": {
+    "title": {
+      "en": "Steering Committee",
+      "es": "Comité Directivo"
+    },
+    "members": [
+      {
+        "order": 0,
+        "title": "Dr.",
+        "name": "Jean-Louis Vincent",
+        "profession": {
+          "en": "MD, PhD – Internal Medicine and Intensive Care Specialist",
+          "es": "MD, PhD – Especialista en Medicina Interna y Cuidados Intensivos"
+        },
+        "institution": {
+          "en": "Erasme University Hospital",
+          "es": "Erasme University Hospital"
+        },
+        "country": {
+          "en": "Belgium",
+          "es": "Bélgica"
+        },
+        "code": "BEL"
+      },
+      {
+        "order": 1,
+        "title": "Prof.",
+        "name": "Ignacio-Martin Loeches",
+        "profession": {
+          "en": "MD, PhD, FJFICMI – Intensive Care Specialist",
+          "es": "MD, PhD, FJFICMI – Especialista en Cuidados Intensivos"
+        },
+        "institution": {
+          "en": "Department of Anaesthesia and Critical Care Medicine, St James's Hospital",
+          "es": "Department of Anaesthesia and Critical Care Medicine, St James's Hospital"
+        },
+        "country": {
+          "en": "Ireland",
+          "es": "Irlanda"
+        },
+        "code": "IRL"
+      },
+      {
+        "order": 2,
+        "title": "Dr.",
+        "name": "Jan de Waele",
+        "profession": {
+          "en": "Intensive Care Specialist",
+          "es": "Especialista en Cuidados Intensivos"
+        },
+        "institution": {
+          "en": "Ghent University Hospital",
+          "es": "Ghent University Hospital"
+        },
+        "country": {
+          "en": "Belgium",
+          "es": "Bélgica"
+        },
+        "code": "BEL"
+      },
+      {
+        "order": 3,
+        "title": "Dr.",
+        "name": "Liesbet De Bus",
+        "profession": {
+          "en": "MD, PhD – Intensive Care Medicine & Antimicrobial Stewardship Specialist",
+          "es": "MD, PhD – Especialista en Medicina de Cuidados Intensivos y Gestión de Antimicrobianos"
+        },
+        "institution": {
+          "en": "Department of Intensive Care Medicine, Ghent University Hospital / Ghent University",
+          "es": "Department of Intensive Care Medicine, Ghent University Hospital / Ghent University"
+        },
+        "country": {
+          "en": "Belgium",
+          "es": "Bélgica"
+        },
+        "code": "BEL"
+      },
+      {
+        "order": 4,
+        "title": "Dr.",
+        "name": "Flavia Machado",
+        "profession": {
+          "en": "MD, MSc, PhD – Intensivist and Infectious Disease Specialist",
+          "es": "MD, MSc, PhD – Intensivista y Especialista en Enfermedades Infecciosas"
+        },
+        "institution": {
+          "en": "Department of Anesthesiology, Pain, and Intensive Care, Federal University of Sao Paulo",
+          "es": "Department of Anesthesiology, Pain, and Intensive Care, Federal University of Sao Paulo"
+        },
+        "country": {
+          "en": "Brazil",
+          "es": "Brasil"
+        },
+        "code": "BRA"
+      },
+      {
+        "order": 5,
+        "title": "Dr.",
+        "name": "Carina Balasini",
+        "profession": {
+          "en": "MD – Intensive Care Specialist",
+          "es": "MD – Especialista en Cuidados Intensivos"
+        },
+        "institution": {
+          "en": "Universidad de Buenos Aires",
+          "es": "Universidad de Buenos Aires"
+        },
+        "country": {
+          "en": "Argentina",
+          "es": "Argentina"
+        },
+        "code": "ARG"
+      },
+      {
+        "order": 6,
+        "title": "Dr.",
+        "name": "Derek Angus",
+        "profession": {
+          "en": "MD, MPH – Intensive Care Specialist",
+          "es": "MD, MPH – Especialista en Cuidados Intensivos"
+        },
+        "institution": {
+          "en": "University of Pittsburgh Schools of the Health Sciences, Pittsburgh, Pennsylvania",
+          "es": "University of Pittsburgh Schools of the Health Sciences, Pittsburgh, Pennsylvania"
+        },
+        "country": {
+          "en": "USA",
+          "es": "Estados Unidos"
+        },
+        "code": "USA"
+      },
+      {
+        "order": 7,
+        "title": "Dr.",
+        "name": "Marc Leone",
+        "profession": {
+          "en": "MD, PhD – Intensive Care Specialist",
+          "es": "MD, PhD – Especialista en Cuidados Intensivos"
+        },
+        "institution": {
+          "en": "Department of Anesthesiology and Intensive Care Medicine, Hôpital Nord, Aix Marseille Université, Marseille",
+          "es": "Department of Anesthesiology and Intensive Care Medicine, Hôpital Nord, Aix Marseille Université, Marseille"
+        },
+        "country": {
+          "en": "France",
+          "es": "Francia"
+        },
+        "code": "FRA"
+      },
+      {
+        "order": 8,
+        "title": "Dr.",
+        "name": "John Marshall",
+        "profession": {
+          "en": "MD, FRCSC, FACS, FCAHS – General Surgery Specialist",
+          "es": "MD, FRCSC, FACS, FCAHS – Especialista en Cirugía General"
+        },
+        "institution": {
+          "en": "University of Toronto, St. Michael's Hospital",
+          "es": "University of Toronto, St. Michael's Hospital"
+        },
+        "country": {
+          "en": "Canada",
+          "es": "Canadá"
+        },
+        "code": "CAN"
+      },
+      {
+        "order": 9,
+        "title": "Dr.",
+        "name": "Bin Du",
+        "profession": {
+          "en": "MD – Intensive Care Specialist",
+          "es": "MD – Especialista en Cuidados Intensivos"
+        },
+        "institution": {
+          "en": "Medical ICU Peking Union Medical College Hospital, Beijing, China",
+          "es": "Medical ICU Peking Union Medical College Hospital, Beijing, China"
+        },
+        "country": {
+          "en": "China",
+          "es": "China"
+        },
+        "code": "CHN"
+      },
+      {
+        "order": 10,
+        "title": "Dr.",
+        "name": "Evelina Tacconelli",
+        "profession": {
+          "en": "MD, MSc – Infectious Diseases Specialist",
+          "es": "MD, MSc – Especialista en Enfermedades Infecciosas"
+        },
+        "institution": {
+          "en": "University of Verona",
+          "es": "University of Verona"
+        },
+        "country": {
+          "en": "Italy",
+          "es": "Italia"
+        },
+        "code": "ITA"
+      },
+      {
+        "order": 11,
+        "title": "Dr.",
+        "name": "Lene Russell",
+        "profession": {
+          "en": "MD, PhD – Intensive Care Specialist",
+          "es": "MD, PhD – Especialista en Cuidados Intensivos"
+        },
+        "institution": {
+          "en": "Copenhagen University",
+          "es": "Copenhagen University"
+        },
+        "country": {
+          "en": "Denmark",
+          "es": "Dinamarca"
+        },
+        "code": "DNK"
+      },
+      {
+        "order": 13,
+        "title": "Dr.",
+        "name": "Sheila Nainan Myatra",
+        "profession": {
+          "en": "MD, FCCM, FICCM – Intensive Care Specialist",
+          "es": "MD, FCCM, FICCM – Especialista en Cuidados Intensivos"
+        },
+        "institution": {
+          "en": "Tata Memorial Hospital",
+          "es": "Tata Memorial Hospital"
+        },
+        "country": {
+          "en": "India",
+          "es": "India"
+        },
+        "code": "IND"
+      },
+      {
+        "order": 14,
+        "title": "Dr.",
+        "name": "Carmen Barbas",
+        "profession": {
+          "en": "MD – Intensive Care and Pneumology Specialist",
+          "es": "MD – Especialista en Cuidados Intensivos y Neumología"
+        },
+        "institution": {
+          "en": "University of Sao Paulo",
+          "es": "University of Sao Paulo"
+        },
+        "country": {
+          "en": "Brazil",
+          "es": "Brasil"
+        },
+        "code": "BRA"
+      },
+      {
+        "order": 15,
+        "title": "Dr.",
+        "name": "Gentle Shresta",
+        "profession": {
+          "en": "MD, EDIC, FCCP, FSNCC – Anaesthesiology Fellow in Adult Critical Care",
+          "es": "MD, EDIC, FCCP, FSNCC – Fellow en Anestesiología y Cuidados Críticos del Adulto"
+        },
+        "institution": {
+          "en": "Tribhuvan University Teaching Hospital",
+          "es": "Tribhuvan University Teaching Hospital"
+        },
+        "country": {
+          "en": "Nepal",
+          "es": "Nepal"
+        },
+        "code": "NPL"
+      },
+      {
+        "order": 16,
+        "title": "Dr.",
+        "name": "Arjen Dondorp",
+        "profession": {
+          "en": "MD – Intensive Care Specialist",
+          "es": "MD – Especialista en Cuidados Intensivos"
+        },
+        "institution": {
+          "en": "Mahidol-Oxford Tropical Medicine Research Unit",
+          "es": "Mahidol-Oxford Tropical Medicine Research Unit"
+        },
+        "country": {
+          "en": "Thailand",
+          "es": "Tailandia"
+        },
+        "code": "THA"
+      }
+    ]
+  },
+  "coordinator": {
+    "title": {
+      "en": "Coordinating centre",
+      "es": "Centro Coordinador"
+    },
+    "members": [],
+    "info": {
+      "en": "Department of Intensive Care Medicine, Multidisciplinary Intensive Care Research Organization (MICRO), St James' Hospital, Dublin, Ireland",
+      "es": "Departamento de Medicina Intensiva, Organización Multidisciplinaria de Investigación en Cuidados Intensivos (MICRO), Hospital St James, Dublín, Irlanda"
+    }
+  }
+}

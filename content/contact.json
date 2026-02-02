@@ -1,0 +1,23 @@
+{
+  "page_title": {
+    "en": "Contact us",
+    "es": "Contáctanos"
+  },
+  "address_title": {
+    "en": "Address",
+    "es": "Dirección"
+  },
+  "email_title": {
+    "en": "Email",
+    "es": "Correo electrónico"
+  },
+  "content": [
+    {
+      "order": 0,
+      "name": "Department of Intensive Care Medicine, Multidisciplinary Intensive Care Research Organization (MICRO), St James' Hospital, Dublin, Ireland ",
+      "address": "St James's Hospital. James Street Dublin 8 Ireland D08 NHY1\nFirst floor, main hospital building.",
+      "email": "imartinl@tcd.ie, jlvincent@intensive.org",
+      "phone": "(01) 410 3000"
+    }
+  ]
+}
