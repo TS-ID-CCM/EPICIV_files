@@ -17,20 +17,6 @@
           {
             "order": 0,
             "title": "Prof.",
-            "name": "Ignacio Martin-Loeches",
-            "profession": {
-              "en": "MD, PhD, FJFICMI",
-              "es": "MD, PhD, FJFICMI"
-            },
-            "info": {
-              "en": "•\tSt. James's Hospital Dublin (Ireland)\n•\tProfessor, Trinity College Dublin (Ireland)\n•\tChair of the Research Committee, European Society of Intensive Care Medicine (ESICM)",
-              "es": "•\tHospital St. James's de Dublín (Irlanda)\n•\tProfesor, Trinity College de Dublín (Irlanda)\n•\tPresidente del Comité de Investigación, Sociedad Europea de Medicina de Cuidados Intensivos - ESICM"
-            },
-            "email": "imartinl@tcd.ie"
-          },
-          {
-            "order": 1,
-            "title": "Prof.",
             "name": "Jean-Louis Vincent",
             "profession": {
               "en": "MD, PhD",
@@ -44,6 +30,20 @@
           },
           {
             "order": 1,
+            "title": "Prof.",
+            "name": "Ignacio Martin-Loeches",
+            "profession": {
+              "en": "MD, PhD, FJFICMI",
+              "es": "MD, PhD, FJFICMI"
+            },
+            "info": {
+              "en": "•\tSt. James's Hospital Dublin (Ireland)\n•\tProfessor, Trinity College Dublin (Ireland)\n•\tChair of the Research Committee, European Society of Intensive Care Medicine (ESICM)",
+              "es": "•\tHospital St. James's de Dublín (Irlanda)\n•\tProfesor, Trinity College de Dublín (Irlanda)\n•\tPresidente del Comité de Investigación, Sociedad Europea de Medicina de Cuidados Intensivos - ESICM"
+            },
+            "email": "imartinl@tcd.ie"
+          },
+          {
+            "order": 2,
             "title": "Dr.",
             "name": "Luis Felipe Reyes",
             "profession": {
@@ -362,8 +362,8 @@
     },
     "members": [],
     "info": {
-      "en": "Department of Intensive Care Medicine, Multidisciplinary Intensive Care Research Organization (MICRO), St James' Hospital, Dublin, Ireland",
-      "es": "Departamento de Medicina Intensiva, Organización Multidisciplinaria de Investigación en Cuidados Intensivos (MICRO), Hospital St James, Dublín, Irlanda"
+      "en": "Unisabana Center for Translational Science, Universidad de La Sabana, Bogotá, Colombia",
+      "es": "Unisabana Center for Translational Science, Universidad de La Sabana, Bogotá, Colombia"
     }
   }
 }
