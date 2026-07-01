@@ -41,20 +41,6 @@
               "es": "•\tHospital St. James's de Dublín (Irlanda)\n•\tProfesor, Trinity College de Dublín (Irlanda)\n•\tPresidente del Comité de Investigación, Sociedad Europea de Medicina de Cuidados Intensivos - ESICM"
             },
             "email": "imartinl@tcd.ie"
-          },
-          {
-            "order": 2,
-            "title": "Dr.",
-            "name": "Luis Felipe Reyes",
-            "profession": {
-              "en": "MD, MSc, PhD",
-              "es": "MD, MSc, PhD"
-            },
-            "info": {
-              "en": "•\tDistinguished Professor of Infectious Diseases at the School of Medicine, Universidad de La Sabana (Colombia)\n•\tResearch Leader, Unisabana Center for Translational Science -UCTS (Colombia)\n•\tLeadership Academic Manager, Pandemic Sciences Institute, University of Oxford",
-              "es": "•\tProfesor Distinguido de Enfermedades Infecciosas en la Facultad de Medicina, Universidad de La Sabana (Colombia)\n•\tLíder de Investigación en el Unisabana Center for Translational Science -UCTS (Colombia)\n•\tGerente Académico de Liderazgo, Pandemic Sciences Institute, Universidad de Oxford"
-            },
-            "email": "luis.reyes5@unisabana.edu.co"
           }
         ]
       }
@@ -68,104 +54,50 @@
       {
         "order": 0,
         "title": "Dr.",
-        "name": "Jean-Louis Vincent",
+        "name": "Luis Felipe Reyes",
         "profession": {
-          "en": "MD, PhD – Internal Medicine and Intensive Care Specialist",
-          "es": "MD, PhD – Especialista en Medicina Interna y Cuidados Intensivos"
+          "en": "MD, PhD, MSc",
+          "es": "MD, PhD, MSc"
         },
         "institution": {
-          "en": "Erasme University Hospital",
-          "es": "Erasme University Hospital"
+          "en": "School of Medicine, Universidad de La Sabana, Unisabana Center for Translational Science (UCTS); Pandemic Sciences Institute, University of Oxford",
+          "es": "School of Medicine, Universidad de La Sabana, Unisabana Center for Translational Science (UCTS); Pandemic Sciences Institute, University of Oxford"
         },
         "country": {
-          "en": "Belgium",
-          "es": "Bélgica"
+          "en": "Colombia",
+          "es": "Colombia"
         },
-        "code": "BEL"
+        "code": "COL"
       },
       {
         "order": 1,
-        "title": "Prof.",
-        "name": "Ignacio-Martin Loeches",
+        "title": "Dr.",
+        "name": "Arthur Kwizera",
         "profession": {
-          "en": "MD, PhD, FJFICMI – Intensive Care Specialist",
-          "es": "MD, PhD, FJFICMI – Especialista en Cuidados Intensivos"
+          "en": "MD, PhD",
+          "es": "MD, PhD"
         },
         "institution": {
-          "en": "Department of Anaesthesia and Critical Care Medicine, St James's Hospital",
-          "es": "Department of Anaesthesia and Critical Care Medicine, St James's Hospital"
+          "en": "Department of Anesthesia, Makerere University College of Health Sciences",
+          "es": "Department of Anesthesia, Makerere University College of Health Sciences"
         },
         "country": {
-          "en": "Ireland",
-          "es": "Irlanda"
+          "en": "Uganda",
+          "es": "Uganda"
         },
-        "code": "IRL"
+        "code": "UGA"
       },
       {
         "order": 2,
         "title": "Dr.",
-        "name": "Jan de Waele",
-        "profession": {
-          "en": "Intensive Care Specialist",
-          "es": "Especialista en Cuidados Intensivos"
-        },
-        "institution": {
-          "en": "Ghent University Hospital",
-          "es": "Ghent University Hospital"
-        },
-        "country": {
-          "en": "Belgium",
-          "es": "Bélgica"
-        },
-        "code": "BEL"
-      },
-      {
-        "order": 3,
-        "title": "Dr.",
-        "name": "Liesbet De Bus",
-        "profession": {
-          "en": "MD, PhD – Intensive Care Medicine & Antimicrobial Stewardship Specialist",
-          "es": "MD, PhD – Especialista en Medicina de Cuidados Intensivos y Gestión de Antimicrobianos"
-        },
-        "institution": {
-          "en": "Department of Intensive Care Medicine, Ghent University Hospital / Ghent University",
-          "es": "Department of Intensive Care Medicine, Ghent University Hospital / Ghent University"
-        },
-        "country": {
-          "en": "Belgium",
-          "es": "Bélgica"
-        },
-        "code": "BEL"
-      },
-      {
-        "order": 4,
-        "title": "Dr.",
-        "name": "Flavia Machado",
-        "profession": {
-          "en": "MD, MSc, PhD – Intensivist and Infectious Disease Specialist",
-          "es": "MD, MSc, PhD – Intensivista y Especialista en Enfermedades Infecciosas"
-        },
-        "institution": {
-          "en": "Department of Anesthesiology, Pain, and Intensive Care, Federal University of Sao Paulo",
-          "es": "Department of Anesthesiology, Pain, and Intensive Care, Federal University of Sao Paulo"
-        },
-        "country": {
-          "en": "Brazil",
-          "es": "Brasil"
-        },
-        "code": "BRA"
-      },
-      {
-        "order": 5,
-        "title": "Dr.",
         "name": "Carina Balasini",
         "profession": {
-          "en": "MD – Intensive Care Specialist",
-          "es": "MD – Especialista en Cuidados Intensivos"
+          "en": "MD",
+          "es": "MD"
         },
         "institution": {
-          "en": "Universidad de Buenos Aires",
-          "es": "Universidad de Buenos Aires"
+          "en": "Hospital General de Agudos Dr. Ignacio Pirovano, Ciudad Autónoma de Buenos Aires",
+          "es": "Hospital General de Agudos Dr. Ignacio Pirovano, Ciudad Autónoma de Buenos Aires"
         },
         "country": {
           "en": "Argentina",
@@ -174,52 +106,106 @@
         "code": "ARG"
       },
       {
-        "order": 6,
+        "order": 3,
         "title": "Dr.",
-        "name": "Derek Angus",
+        "name": "Brett Abbenbroek",
         "profession": {
-          "en": "MD, MPH – Intensive Care Specialist",
-          "es": "MD, MPH – Especialista en Cuidados Intensivos"
+          "en": "RN, BSc, MPH, PhD",
+          "es": "RN, BSc, MPH, PhD"
         },
         "institution": {
-          "en": "University of Pittsburgh Schools of the Health Sciences, Pittsburgh, Pennsylvania",
-          "es": "University of Pittsburgh Schools of the Health Sciences, Pittsburgh, Pennsylvania"
+          "en": "The George Institute for Global Health",
+          "es": "The George Institute for Global Health"
         },
         "country": {
-          "en": "USA",
-          "es": "Estados Unidos"
+          "en": "Australia",
+          "es": "Australia"
         },
-        "code": "USA"
+        "code": "AUS"
+      },
+      {
+        "order": 4,
+        "title": "Dr.",
+        "name": "Bin Du",
+        "profession": {
+          "en": "MD, PhD",
+          "es": "MD, PhD"
+        },
+        "institution": {
+          "en": "Department of Medical Intensive Care Unit, Peking Union Medical College Hospital, Peking Union Medical College, Chinese Academy of Medical Sciences",
+          "es": "Department of Medical Intensive Care Unit, Peking Union Medical College Hospital, Peking Union Medical College, Chinese Academy of Medical Sciences"
+        },
+        "country": {
+          "en": "China",
+          "es": "China"
+        },
+        "code": "CHN"
+      },
+      {
+        "order": 5,
+        "title": "Dr.",
+        "name": "Flavia R. Machado",
+        "profession": {
+          "en": "MD",
+          "es": "MD"
+        },
+        "institution": {
+          "en": "Intensive Care Department, Hospital São Paulo, Escola Paulista de Medicina, Universidade Federal de São Paulo",
+          "es": "Intensive Care Department, Hospital São Paulo, Escola Paulista de Medicina, Universidade Federal de São Paulo"
+        },
+        "country": {
+          "en": "Brazil",
+          "es": "Brasil"
+        },
+        "code": "BRA"
+      },
+      {
+        "order": 6,
+        "title": "Dr.",
+        "name": "Ignacio Martin-Loeches",
+        "profession": {
+          "en": "MD, PhD, FJFICMI",
+          "es": "MD, PhD, FJFICMI"
+        },
+        "institution": {
+          "en": "Department of Intensive Care Medicine, Multidisciplinary Intensive Care Research Organisation (MICRO), St James's Hospital, Trinity College Dublin",
+          "es": "Department of Intensive Care Medicine, Multidisciplinary Intensive Care Research Organisation (MICRO), St James's Hospital, Trinity College Dublin"
+        },
+        "country": {
+          "en": "Ireland",
+          "es": "Irlanda"
+        },
+        "code": "IRL"
       },
       {
         "order": 7,
         "title": "Dr.",
-        "name": "Marc Leone",
+        "name": "Jean-Louis Vincent",
         "profession": {
-          "en": "MD, PhD – Intensive Care Specialist",
-          "es": "MD, PhD – Especialista en Cuidados Intensivos"
+          "en": "MD, PhD",
+          "es": "MD, PhD"
         },
         "institution": {
-          "en": "Department of Anesthesiology and Intensive Care Medicine, Hôpital Nord, Aix Marseille Université, Marseille",
-          "es": "Department of Anesthesiology and Intensive Care Medicine, Hôpital Nord, Aix Marseille Université, Marseille"
+          "en": "Department of Intensive Care, Erasme University Hospital (Université Libre de Bruxelles)",
+          "es": "Department of Intensive Care, Erasme University Hospital (Université Libre de Bruxelles)"
         },
         "country": {
-          "en": "France",
-          "es": "Francia"
+          "en": "Belgium",
+          "es": "Bélgica"
         },
-        "code": "FRA"
+        "code": "BEL"
       },
       {
         "order": 8,
         "title": "Dr.",
-        "name": "John Marshall",
+        "name": "John C. Marshall",
         "profession": {
-          "en": "MD, FRCSC, FACS, FCAHS – General Surgery Specialist",
-          "es": "MD, FRCSC, FACS, FCAHS – Especialista en Cirugía General"
+          "en": "MD, FRCSC, FACS, FCAHS",
+          "es": "MD, FRCSC, FACS, FCAHS"
         },
         "institution": {
-          "en": "University of Toronto, St. Michael's Hospital",
-          "es": "University of Toronto, St. Michael's Hospital"
+          "en": "St. Michael's Hospital, Unity Health Toronto",
+          "es": "St. Michael's Hospital, Unity Health Toronto"
         },
         "country": {
           "en": "Canada",
@@ -230,68 +216,86 @@
       {
         "order": 9,
         "title": "Dr.",
-        "name": "Bin Du",
+        "name": "Joseph Nates",
         "profession": {
-          "en": "MD – Intensive Care Specialist",
-          "es": "MD – Especialista en Cuidados Intensivos"
+          "en": "MD, MBA",
+          "es": "MD, MBA"
         },
         "institution": {
-          "en": "Medical ICU Peking Union Medical College Hospital, Beijing, China",
-          "es": "Medical ICU Peking Union Medical College Hospital, Beijing, China"
+          "en": "Department of Critical Care, The University of Texas MD Anderson Cancer Center",
+          "es": "Department of Critical Care, The University of Texas MD Anderson Cancer Center"
         },
         "country": {
-          "en": "China",
-          "es": "China"
+          "en": "USA",
+          "es": "Estados Unidos"
         },
-        "code": "CHN"
+        "code": "USA"
       },
       {
         "order": 10,
         "title": "Dr.",
-        "name": "Evelina Tacconelli",
+        "name": "Marcus J. Schultz",
         "profession": {
-          "en": "MD, MSc – Infectious Diseases Specialist",
-          "es": "MD, MSc – Especialista en Enfermedades Infecciosas"
+          "en": "MD, MSc, PhD",
+          "es": "MD, MSc, PhD"
         },
         "institution": {
-          "en": "University of Verona",
-          "es": "University of Verona"
+          "en": "Department of Anaesthesia, General Intensive Care and Pain Management, Division of Cardiothoracic and Vascular Anaesthesia & Critical Care Medicine, Medical University Wien",
+          "es": "Department of Anaesthesia, General Intensive Care and Pain Management, Division of Cardiothoracic and Vascular Anaesthesia & Critical Care Medicine, Medical University Wien"
         },
         "country": {
-          "en": "Italy",
-          "es": "Italia"
+          "en": "Austria",
+          "es": "Austria"
         },
-        "code": "ITA"
+        "code": "AUT"
       },
       {
         "order": 11,
         "title": "Dr.",
-        "name": "Lene Russell",
+        "name": "Marc Leone",
         "profession": {
-          "en": "MD, PhD – Intensive Care Specialist",
-          "es": "MD, PhD – Especialista en Cuidados Intensivos"
+          "en": "MD, PhD",
+          "es": "MD, PhD"
         },
         "institution": {
-          "en": "Copenhagen University",
-          "es": "Copenhagen University"
+          "en": "Department of Anesthesiology and Intensive Care Medicine, Nord Hospital, Assistance Publique Hôpitaux Universitaires de Marseille, Aix Marseille University",
+          "es": "Department of Anesthesiology and Intensive Care Medicine, Nord Hospital, Assistance Publique Hôpitaux Universitaires de Marseille, Aix Marseille University"
         },
         "country": {
-          "en": "Denmark",
-          "es": "Dinamarca"
+          "en": "France",
+          "es": "Francia"
         },
-        "code": "DNK"
+        "code": "FRA"
+      },
+      {
+        "order": 12,
+        "title": "Dr.",
+        "name": "Marlies Ostermann",
+        "profession": {
+          "en": "MD, PhD",
+          "es": "MD, PhD"
+        },
+        "institution": {
+          "en": "Foundation Trust / King's College London",
+          "es": "Foundation Trust / King's College London"
+        },
+        "country": {
+          "en": "United Kingdom",
+          "es": "Reino Unido"
+        },
+        "code": "GBR"
       },
       {
         "order": 13,
         "title": "Dr.",
         "name": "Sheila Nainan Myatra",
         "profession": {
-          "en": "MD, FCCM, FICCM – Intensive Care Specialist",
-          "es": "MD, FCCM, FICCM – Especialista en Cuidados Intensivos"
+          "en": "MD, FCCM, FICCM",
+          "es": "MD, FCCM, FICCM"
         },
         "institution": {
-          "en": "Tata Memorial Hospital",
-          "es": "Tata Memorial Hospital"
+          "en": "Department of Anesthesiology, Critical Care and Pain, Tata Memorial Hospital, Homi Bhabha National Institute",
+          "es": "Department of Anesthesiology, Critical Care and Pain, Tata Memorial Hospital, Homi Bhabha National Institute"
         },
         "country": {
           "en": "India",
@@ -302,56 +306,20 @@
       {
         "order": 14,
         "title": "Dr.",
-        "name": "Carmen Barbas",
+        "name": "Son Ngoc Do",
         "profession": {
-          "en": "MD – Intensive Care and Pneumology Specialist",
-          "es": "MD – Especialista en Cuidados Intensivos y Neumología"
+          "en": "MD, PhD",
+          "es": "MD, PhD"
         },
         "institution": {
-          "en": "University of Sao Paulo",
-          "es": "University of Sao Paulo"
+          "en": "Bach Mai Hospital",
+          "es": "Bach Mai Hospital"
         },
         "country": {
-          "en": "Brazil",
-          "es": "Brasil"
+          "en": "Viet Nam",
+          "es": "Viet Nam"
         },
-        "code": "BRA"
-      },
-      {
-        "order": 15,
-        "title": "Dr.",
-        "name": "Gentle Shresta",
-        "profession": {
-          "en": "MD, EDIC, FCCP, FSNCC – Anaesthesiology Fellow in Adult Critical Care",
-          "es": "MD, EDIC, FCCP, FSNCC – Fellow en Anestesiología y Cuidados Críticos del Adulto"
-        },
-        "institution": {
-          "en": "Tribhuvan University Teaching Hospital",
-          "es": "Tribhuvan University Teaching Hospital"
-        },
-        "country": {
-          "en": "Nepal",
-          "es": "Nepal"
-        },
-        "code": "NPL"
-      },
-      {
-        "order": 16,
-        "title": "Dr.",
-        "name": "Arjen Dondorp",
-        "profession": {
-          "en": "MD – Intensive Care Specialist",
-          "es": "MD – Especialista en Cuidados Intensivos"
-        },
-        "institution": {
-          "en": "Mahidol-Oxford Tropical Medicine Research Unit",
-          "es": "Mahidol-Oxford Tropical Medicine Research Unit"
-        },
-        "country": {
-          "en": "Thailand",
-          "es": "Tailandia"
-        },
-        "code": "THA"
+        "code": "VNM"
       }
     ]
   },
